@@ -56,4 +56,19 @@ The dataset consists of the following files:
 `statsmodel`
 `wordcloud`
 
+## Repository Structure
+
+.
+├── data/ # Contains the training and test datasets
+│ ├── train.csv  
+│ ├── test.csv  
+│ ├── Sample.csv  
+├── docs/
+│ ├── `preprocessing.md` # Detailed preprocessing walkthrough
+│ ├── `model_selection.md` # Detailed model selection walkthrough
+│ └── `overview.md` # Detailed overview of final notebook
+├── notebooks/  
+│ └── `24f2000681-notebook-t12026.ipynb`
+└── README.md # This file
+
 ---
